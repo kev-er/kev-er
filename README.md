@@ -1,6 +1,6 @@
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
 
-![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![GitHub Header](/assets/GitHubHeader.png)
 
 # &nbsp;Hi,&nbsp; I'm Kevin Holm
 
