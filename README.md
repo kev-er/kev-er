@@ -1,14 +1,12 @@
 # ![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
-
 ![GitHub Header](/assets/GitHubHeader.png)
 
 <h2 align="center">
 I'm a Full-Stack Developer 💻
 </h2>
 
-## Developer, Designer & Teacher
+## Developer, Tech & Linux Enthusiast
 
 - 🌍  I'm based in Guildford, England
 - 🖥️  See my portfolio [Here]()
