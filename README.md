@@ -28,22 +28,9 @@ I'm a Full-Stack Developer 💻
 ✍️ &nbsp;In my free time, hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
-<br>
+&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<br>
-
-<p align="center">
-<a href="https://github.com/kev-er">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<br>
-
-<h2> 💼 Technical Skills</h2>
+<h1> 💼 Technical Skills</h1>
 <br>
 
 <p align="left">
@@ -59,6 +46,20 @@ I'm a Full-Stack Developer 💻
 </p>
 
 <br>
+<br>
+
+<h2> ⚙️ GitHub Analytics</h2>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/kev-er">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br>
 
 ### 🔭 I'm currently working on
 
@@ -69,7 +70,7 @@ I'm a Full-Stack Developer 💻
 
 ### 🌱 I'm currently learning
 
-- React
+- React /
 - NodeJS
 - MongoDB
 - Styled Components
