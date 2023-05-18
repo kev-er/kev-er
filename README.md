@@ -36,10 +36,11 @@ I'm a Full-Stack Developer 💻
 
 <p align="center">
 <a href="https://github.com/kev-er">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 <br>
 
 <h2> 💼 Technical Skills</h2>
@@ -59,14 +60,14 @@ I'm a Full-Stack Developer 💻
 
 <br>
 
-## 🔭 I'm currently working on
+### 🔭 I'm currently working on
 
 - My old projects
 - Portfolio projects
 - Daily CodeWars
 - My backend skills
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
 - React
 - NodeJS
