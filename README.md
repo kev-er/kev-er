@@ -1,55 +1,34 @@
-![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# ![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
+
+![GitHub Header](/assets/GitHubHeader.png)
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻
+I'm a Full-Stack Developer 💻
 </h2>
 
-## 🔭 I'm currently working on
+## Developer, Designer & Teacher
 
-- My old projects
-- Restaurant Recommendation App React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- 🌍  I'm based in Guildford, England
+- 🖥️  See my portfolio [Here]()
+- ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
+- 🚀 I'm currently working on
+- 🧠  I'm learning Node and React
+- 🤝  I'm open to collaborating on exciting projects
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+  <br>
 
-## 🌱 I'm currently learning
+#
 
-- 📱 React
-- Firebase
--
-- Styled Components
-
-## 💼 Technical Skills
-
-<br>
-#  &nbsp;About Me
+## 💬&nbsp;&nbsp; About me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
-# 🛠 &nbsp;Tech Stack
-<br>
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
-
-## 🌱 I'm currently learning
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -63,10 +42,33 @@ I'm a Full-Stack Web Developer 💻
 </p>
 <br>
 
-&nbsp;Connect with Me
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<h2> 💼 Technical Skills</h2>
 <br>
 
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/-kevin-holm.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> -->
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+
+<br>
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Portfolio projects
+- Daily CodeWars
+- My backend skills
+
+## 🌱 I'm currently learning
+
+- React
+- NodeJS
+- MongoDB
+- Styled Components
