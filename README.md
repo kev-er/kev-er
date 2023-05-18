@@ -1,32 +1,22 @@
-<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
-
 ![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# &nbsp;Hi,&nbsp; I'm Kevin Holm
-
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Kevin</a> 👋
-</h3>
-
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻
 </h2>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
+- Restaurant Recommendation App React-Native)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
 - My CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 React
 - Firebase
-- React Context API
+-
 - Styled Components
 
 ## 💼 Technical Skills
@@ -66,20 +56,17 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 <br>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/kev-er">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
 
 &nbsp;Connect with Me
-
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <br>
-## 🌱 I'm currently learning
 
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/-kevin-holm.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
