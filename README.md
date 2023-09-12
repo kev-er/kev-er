@@ -11,8 +11,8 @@ I'm a Full-Stack Developer 💻
 - 🌍  I'm based in Guildford, England
 - 🖥️  See my portfolio [Here]()
 - ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
-- 🚀 I'm currently working on
-- 🧠  I'm learning Node and React
+- 🚀 I'm currently working on my portfolio
+- 🧠  I'm currently learning python & SQL 
 - 🤝  I'm open to collaborating on exciting projects
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
   <br>
@@ -22,7 +22,6 @@ I'm a Full-Stack Developer 💻
 ## 💬&nbsp;&nbsp; About me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 
