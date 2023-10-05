@@ -1,6 +1,6 @@
 # ![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![GitHub Header](/assets/GitHubHeader.png)
+(/assets/GitHubHeader.png)
 
 <h2 align="center">
 I'm a Full-Stack Developer 💻
