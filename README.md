@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a Self Taught Developer 💻
+Hi, I'm Kevin a Self Taught Developer 💻
 </h2>
 
 ## Developer, Tech & Linux Enthusiast
@@ -26,15 +26,15 @@ I'm a Self Taught Developer 💻
 ### 🔭 I'm currently working on
 <br>
 - Portfolio projects
-- Daily CodeWars
+- CodeWars/Code Challenges
 - My backend skills
 
 
 ### 🌱 I'm currently learning
-<br>
-- React /
-- NodeJS
-- SQL 
+
+- 🧠 React
+- 💾 SQL
+- 🖥️ NodeJS
 
 <h1> 💼 Technical Skills</h1>
 <br>
@@ -54,8 +54,7 @@ I'm a Self Taught Developer 💻
 
 </p>
 
-<br>
-<br>
+
 
 <h2> ⚙️ GitHub Analytics</h2>
 
