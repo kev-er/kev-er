@@ -23,6 +23,19 @@ I'm a Self Taught Developer 💻
 
 &nbsp;
 
+### 🔭 I'm currently working on
+<br>
+- Portfolio projects
+- Daily CodeWars
+- My backend skills
+
+
+### 🌱 I'm currently learning
+<br>
+- React /
+- NodeJS
+- SQL 
+
 <h1> 💼 Technical Skills</h1>
 <br>
 
@@ -55,16 +68,3 @@ I'm a Self Taught Developer 💻
 </a>
 </p>
 
-<br>
-
-### 🔭 I'm currently working on
-<br>
-- Portfolio projects
-- Daily CodeWars
-- My backend skills
-<br>
-### 🌱 I'm currently learning
-<br>
-- React /
-- NodeJS
-- SQL 
