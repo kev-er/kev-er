@@ -28,7 +28,7 @@ Hi, I'm Kevin a Self Taught Developer 💻
 - 🤓 Portfolio projects
 - 🤓 CodeWars/Code Challenges
 - 🤓 My backend skills
-
+&nbsp;
 
 ### 🌱 I'm currently learning
 
