@@ -1,9 +1,5 @@
-# ![GitHub Header](https://www.canva.com/design/DAFjM726oAs/_WfXN5A0lPvUGnnvopPdhQ/edit?utm_content=DAFjM726oAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-(/assets/GitHubHeader.png)
-
 <h2 align="center">
-I'm a Full-Stack Developer 💻
+I'm a Self Taught Developer 💻
 </h2>
 
 ## Developer, Tech & Linux Enthusiast
@@ -11,8 +7,8 @@ I'm a Full-Stack Developer 💻
 - 🌍  I'm based in Guildford, England
 - 🖥️  See my portfolio [Here]()
 - ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
-- 🚀 I'm currently working on my portfolio
-- 🧠  I'm currently learning python & SQL 
+- 🚀 I'm currently working on my portfolio projects
+- 🧠  I'm currently learning React 
 - 🤝  I'm open to collaborating on exciting projects
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
   <br>
@@ -62,15 +58,13 @@ I'm a Full-Stack Developer 💻
 <br>
 
 ### 🔭 I'm currently working on
-
-- My old projects
+<br>
 - Portfolio projects
 - Daily CodeWars
 - My backend skills
-
+<br>
 ### 🌱 I'm currently learning
-
+<br>
 - React /
 - NodeJS
-- MongoDB
-- Styled Components
+- SQL 
