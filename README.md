@@ -36,6 +36,8 @@ Hi, I'm Kevin a Self Taught Developer 💻
 - 💾 SQL
 - 🖥️ NodeJS
 
+&nbsp;
+
 <h1> 💼 Technical Skills</h1>
 <br>
 
