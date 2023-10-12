@@ -5,7 +5,7 @@ Hi, I'm Kevin a Self Taught Developer 💻
 ## Developer, Tech & Linux Enthusiast
 
 - 🌍  I'm based in Guildford, England
-- 🖥️  See my portfolio [Here]()
+- 🖥️  See my portfolio [Here](https://kevin-holm.netlify.app/)
 - ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
 - 🚀 I'm currently working on my portfolio projects
 - 🧠  I'm currently learning React 
