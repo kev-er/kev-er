@@ -7,6 +7,8 @@ Hi, I'm Kevin a Self Taught Developer 💻
 - 🌍  I'm based in Guildford, England
 - 🖥️  See my portfolio [Here](https://kevin-holm.netlify.app/)
 - ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
+
+
 - 🚀 I'm currently working on my portfolio projects
 - 🧠  I'm currently learning React 
 - 🤝  I'm open to collaborating on exciting projects
@@ -46,19 +48,22 @@ Hi, I'm Kevin a Self Taught Developer 💻
 &nbsp;
 
 ### 🔭 I'm currently working on
-
-- 🤓 Portfolio projects
-- 🤓 CodeWars/Code Challenges
-- 🤓 My backend skills
+ 🤓 Neovim 
+ 🤓 Portfolio projects
+ 🤓 CodeWars/Code Challenges
+ 🤓 My backend skills
 
 &nbsp;
 &nbsp; 
 
 ### 🌱 I'm currently learning
 
-- 🧠 React
-- 💾 SQL
-- 🖥️ NodeJS
+
+🧠 React
+🚀 Nextjs 
+💾 SQL
+🖥️ NodeJS
+
 
 &nbsp;
 
