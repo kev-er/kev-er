@@ -35,28 +35,31 @@ I enjoy solving real-world technical problems, working with systems, troubleshoo
 # 🖥️ Operating Systems
 
 <p align="left">
-
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" />
+  <a href="https://www.debian.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" />
   </a>
 
-  <a href="https://ubuntu.com/server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu Server" />
+  <a href="https://ubuntu.com/server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu Server" />
   </a>
 
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="Arch Linux" />
+  <a href="https://archlinux.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" />
   </a>
 
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" />
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
   </a>
 
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS" />
+  <a href="https://www.apple.com/macos/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macOS" />
   </a>
-
 </p>
+
+- **Linux (Debian, Ubuntu Server, Arch)** – server environments, CLI usage, package management, troubleshooting  
+- **Windows** – desktop support, user issues, system configuration  
+- **macOS** – basic support and user troubleshooting  
+- **Windows Server** – enterprise environments and Active Directory exposure
 
 ---
 
