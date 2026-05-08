@@ -32,50 +32,16 @@ I enjoy solving real-world technical problems, working with systems, troubleshoo
 
 ---
 
-# 🖥️ Operating Systems
 
-### Debian
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" />
+## 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </p>
-- Linux distribution used for stable server environments  
-- Experience with CLI, package management, and troubleshooting  
 
----
-
-### Ubuntu Server
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu Server" />
-</p>
-- Common server OS for hosting and infrastructure  
-- Used in server setup, networking, and services  
-
----
-
-### Arch Linux
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="Arch Linux" />
-</p>
-- Rolling release Linux distribution  
-- Used for learning deeper system control and CLI workflows  
-
----
-
-### Windows
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" />
-</p>
-- Desktop support and troubleshooting  
-- User administration and system configuration  
-
----
-
-### macOS
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" height="45" alt="macOS" />
-</p>
-- Basic user support and troubleshooting  
-- Familiar with Apple ecosystem and workflows  
+- Linux
+- Windows
+- macOS
+- Windows Server
 
 ---
 
