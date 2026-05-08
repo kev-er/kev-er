@@ -103,13 +103,14 @@ I enjoy solving real-world technical problems, working with systems, troubleshoo
 
 # 🏠 Homelab & Projects
 
-- 🖥️ Proxmox virtualisation environment  
-- ☁️ Azure lab environment  
-- 📁 Self-hosted file & media services  
-- 🐧 Linux server administration practice  
-- 🌐 Networking & troubleshooting lab setups  
-- ⚡ Automation scripts (PowerShell / Bash)  
-- 🎫 ITSM workflow practice (ServiceNow / Jira simulations)  
+- 🖥️ Proxmox virtualisation environment (multiple Linux & Windows VMs)
+- 🧠 Active Directory lab (users, groups, GPOs, file sharing)
+- 🎫 Service Desk simulation (realistic IT support ticket scenarios)
+- ☁️ Microsoft Azure fundamentals lab (VMs & basic cloud setup)
+- 🌐 Network troubleshooting lab (DNS, DHCP, connectivity issues)
+- ⚡ PowerShell automation scripts for admin tasks
+- 🐧 Linux server administration practice environment
+- 📊 System documentation and troubleshooting guides
 
 ---
 
