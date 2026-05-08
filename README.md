@@ -1,69 +1,167 @@
-<h2 align="center">
-Hi, I'm Kevin a Self Taught Developer 💻
-</h2>
+<div align="center">
 
-## Developer, Tech & Linux Enthusiast
+# 👋 Hi, I'm Kevin
 
-- 🌍  I'm based in Guildford, England
-- 🖥️  See my portfolio [Here](https://kevin-holm.netlify.app/)
-- ✉️  You can contact me at [holmk21@gmail.com](mailto:holmk21@gmail.com)
+### IT Support • Linux Enthusiast • Homelab Builder
 
-
-- 🚀 I'm currently working on my portfolio projects
-- 🧠  I'm currently learning React 
-- 🤝  I'm open to collaborating on exciting projects
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-  <br>
-&nbsp;
-
-<h1> 💼 Technical Skills</h1>
-<br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p><!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> -->
-</p><!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> -->
-
-<br>
-<br>
-
-## 💬&nbsp;&nbsp; About me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-
-&nbsp;
-&nbsp;
-<h2> ⚙️ GitHub Analytics</h2>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/kev-er">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kev-er&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kev-er&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+Passionate about IT infrastructure, Linux systems, troubleshooting, networking, and building practical technical solutions.
 </p>
 
-&nbsp;
+<p>
+  <a href="https://kevin-holm.netlify.app/">🌐 Portfolio</a>
+  •
+  <a href="mailto:holmk21@gmail.com">📧 Email</a>
+  •
+  <a href="https://github.com/kev-er">💻 GitHub</a>
+</p>
 
-### 🔭 I'm currently working on
- 🤓 Neovim 
- 🤓 Portfolio projects
- 🤓 CodeWars/Code Challenges
- 🤓 My backend skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=IT+Support+%26+Infrastructure;Linux+Daily+Driver;Homelab+Enthusiast;Always+Learning+New+Technologies" />
 
-&nbsp;
-&nbsp; 
+</div>
 
-### 🌱 I'm currently learning
+---
 
+# 💻 About Me
 
-🧠 React
-🚀 Nextjs 
-💾 SQL
-🖥️ NodeJS
+- 🐧 Linux daily driver with hands-on system administration experience
+- 🛠️ Building and maintaining self-hosted homelab environments
+- 🌐 Interested in networking, infrastructure, and IT support
+- ⚡ Strong troubleshooting and problem-solving mindset
+- 📚 Continuously learning modern systems and technologies
+- 🤝 Open to IT Support, Infrastructure, and Technical Support opportunities
 
+---
 
-&nbsp;
+# 🛠️ Technical Skills
 
+## 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+- Linux
+- Windows
+- Windows Server
+
+---
+
+## ⚙️ Infrastructure & Virtualisation
+
+- Active Directory
+- Group Policy
+- DNS / DHCP
+- Proxmox VE
+- Virtual Machines
+- Samba File Sharing
+- Remote Desktop
+- SSH
+
+---
+
+## 📡 Networking & Diagnostic Tools
+
+- Nmap
+- Wireshark
+- TCP/IP Troubleshooting
+- Network Diagnostics
+- Port & Service Troubleshooting
+
+---
+
+## 💻 Scripting & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powershell,bash,js,nodejs,mongodb,html,css,git,github,vscode" />
+</p>
+
+- PowerShell
+- Bash
+- JavaScript
+- Node.js
+- MongoDB
+- Git & GitHub
+
+---
+
+# 🏠 Homelab & Projects
+
+## 🔧 Current Projects
+
+- 🖥️ Proxmox virtualisation environment
+- 📁 Self-hosted storage and media servers
+- 🐧 Linux server administration
+- 🌐 Networking and infrastructure labs
+- ⚡ PowerShell and Bash automation
+- 💻 Portfolio and technical documentation projects
+
+---
+
+# 📚 Currently Learning
+
+- Advanced PowerShell scripting
+- Windows Server Administration
+- Networking & Infrastructure
+- SQL & Databases
+- React & Next.js
+- Cloud & DevOps fundamentals
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kev-er&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-er&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kev-er&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Goals for 2026
+
+- Build stronger infrastructure and networking knowledge
+- Improve automation and scripting skills
+- Expand homelab projects and documentation
+- Contribute to open-source projects
+- Progress into Infrastructure / Systems Engineering
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:holmk21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kev-er">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kevin-holm.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Always Learning • Always Building • Always Improving
+
+</div>
