@@ -103,6 +103,7 @@ Hands-on with Windows, Linux, networking, virtualisation, and IT troubleshooting
 - PowerShell scripting and automation
 - Bash scripting
 - Git & GitHub
+- Neovim
 - VS Code
 - Basic web development
 - Node.js fundamentals
